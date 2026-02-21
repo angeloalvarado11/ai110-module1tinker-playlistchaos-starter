@@ -111,3 +111,6 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+TF Summary:
+I believe the core concepts students need to understand is troubleshooting/understanding with AI. Although this Tinkering session and the provided code is important, allow it to take a step back and know that the code’s purpose is for practice with fixes/questions for the AI. I feel there are two places students will get caught up on: Copilot and Github setup. There is a lot of information to take in at once, but I believe that they can get up to speed on these quickly. I found the AI helpful once I identified a small issue and was able to describe the code’s intended purpose vs what was actually happening. It was misleading in my first fix where I didn’t describe in exact detail and said that the code was functional. To guide a student, I would first ask that they identify a small bug they found in the website. Take a look at the corresponding code, is this our intended logic? What went wrong and where? Let’s describe our intended purpose vs actual function to AI.
